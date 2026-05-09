@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Shafaat%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20Operations%20Specialist%20%7C%20Dubai%2C%20UAE&descAlignY=58&descSize=16&descColor=f0f0f0&fontFamily=Montserrat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Shafaat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20Operations%20Specialist&descAlignY=58&descSize=16&descColor=f0f0f0&fontFamily=Montserrat" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=IT+Infrastructure+%26+Operations+Specialist+%F0%9F%96%A5%EF%B8%8F;Network+%26+Systems+Support+%7C+Dubai+UAE+%F0%9F%87%A6%F0%9F%87%AA;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;CCNA+Certified+Network+Associate+%F0%9F%94%8C;Homelab+Enthusiast+%7C+Self-Hosted+Infrastructure+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -11,14 +11,13 @@
 ## 👤 About Me
 
 ```yaml
-name: Shafaat Ahmed Sharief
+name: Shafaat
 alias: twistedvortek
-location: Al Jadaf, Dubai, UAE 🇦🇪  (UAE Resident — 20+ years)
 role: IT Infrastructure & Operations Specialist
 certifications:
   - AWS Certified Solutions Architect (SAA-C03) 2025-2028
   - Cisco Certified Network Associate (CCNA) 2025-2028
-education: BSc (Hons) Computing — Liverpool John Moores University
+education: BSc (Hons) Computing - Liverpool John Moores University
 languages: [English, Hindi, Urdu]
 currently_working_on: IT Infrastructure @ Al Mutakamela 122 (Dubai)
 passions:
@@ -26,23 +25,8 @@ passions:
   - Networking & Systems Administration
   - Self-Hosted Homelab Projects
   - Cloud & Virtualisation
-fun_fact: "My gaming PC became a 15-service production homelab server."
+fun_fact: "I told my homelab it was just for gaming. It now runs 15 services and has more uptime than me."
 ```
-
----
-
-## 🏢 Experience Snapshot
-
-<div align="center">
-
-| Role | Company | Period |
-|------|---------|--------|
-| IT Infrastructure Administrator | Al Mutakamela 122 | Jan 2025 – Present |
-| IT Support & Operations Coordinator | Lammah Space | May – Oct 2024 |
-| IT Support & Marketing Admin | Swedsu | Jan – Oct 2023 |
-| Garage Operations & IT Coordinator | Tomini Group | Jun – Oct 2022 |
-
-</div>
 
 ---
 
@@ -84,25 +68,21 @@ fun_fact: "My gaming PC became a 15-service production homelab server."
 
 ---
 
-## 🏗️ Featured Project — Self-Hosted Homelab
+## 🏗️ Featured Project - Self-Hosted Homelab
 
-<div align="center">
-
-> **Gaming PC → Production-Grade Homelab Server** | 2016 – Present
-
-</div>
+> **Gaming PC -> Production-Grade Homelab Server** | 2016 - Present
 
 ```
-🖥️  Proxmox VE Hypervisor
-├── 💾  TrueNAS SCALE  →  44TB RAID-Z1 Storage Pool (10TB usable)
-├── 🐳  Docker LXC    →  15 Self-Hosted Microservices
+🖥️ Proxmox VE Hypervisor
+├── 💾 TrueNAS SCALE -> 44TB RAID-Z1 Storage Pool (10TB usable)
+├── 🐳 Docker LXC -> 15 Self-Hosted Microservices
 │   ├── Nextcloud (File Sync), Immich (Photo Backup)
 │   ├── Nginx Proxy Manager + Let's Encrypt SSL
 │   ├── Grafana + Prometheus (Infrastructure Monitoring)
 │   ├── Pterodactyl (Game Server Management)
 │   └── Discord Bot (Python + MongoDB)
-├── 🔐  Tailscale VPN  →  Secure Remote Access
-└── ⚙️  GitHub Actions  →  CI/CD Zero-Downtime Deployments
+├── 🔐 Tailscale VPN -> Secure Remote Access
+└── ⚙️ GitHub Actions -> CI/CD Zero-Downtime Deployments
 ```
 
 ---
@@ -111,14 +91,7 @@ fun_fact: "My gaming PC became a 15-service production homelab server."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=twistedvortek&show_icons=true&theme=dark&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=1a1a1a&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twistedvortek&layout=compact&theme=dark&hide_border=true&title_color=FF6B00&text_color=ffffff&bg_color=1a1a1a&langs_count=6" height="160" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=twistedvortek&theme=dark&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&background=1a1a1a&stroke=FF6B00" width="55%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twistedvortek&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00)
 
 </div>
 
@@ -128,7 +101,7 @@ fun_fact: "My gaming PC became a 15-service production homelab server."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=twistedvortek&theme=darkhub&no-frame=true&margin-w=6&row=1&title_color=FF6B00" width="100%" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twistedvortek&theme=darkhub&title_color=FF6B00&no-bg=true&margin-w=4)
 
 </div>
 
@@ -147,14 +120,6 @@ fun_fact: "My gaming PC became a 15-service production homelab server."
 
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=twistedvortek&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontFamily=Montserrat" width="100%"/>
-
-</div>
