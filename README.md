@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Shafaat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20Operations%20Specialist&descAlignY=58&descSize=16&descColor=f0f0f0&fontFamily=Montserrat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=200&section=header&text=Shafaat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20Operations%20Specialist&descAlignY=58&descSize=16&descColor=f0f0f0&fontFamily=Montserrat" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=IT+Infrastructure+%26+Operations+Specialist+%F0%9F%96%A5%EF%B8%8F;Network+%26+Systems+Support+%7C+Dubai+UAE+%F0%9F%87%A6%F0%9F%87%AA;AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;CCNA+Certified+Network+Associate+%F0%9F%94%8C;Homelab+Enthusiast+%7C+Self-Hosted+Infrastructure+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=IT+Infrastructure+%26+Operations+Specialist;Network+%26+Systems+Support;AWS+Certified+Solutions+Architect;CCNA+Certified+Network+Associate;Homelab+Enthusiast+%7C+Self-Hosted+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```yaml
 name: Shafaat
@@ -19,7 +19,6 @@ certifications:
   - Cisco Certified Network Associate (CCNA) 2025-2028
 education: BSc (Hons) Computing - Liverpool John Moores University
 languages: [English, Hindi, Urdu]
-currently_working_on: IT Infrastructure @ Al Mutakamela 122 (Dubai)
 passions:
   - IT Infrastructure & Operations
   - Networking & Systems Administration
@@ -30,7 +29,7 @@ fun_fact: "I told my homelab it was just for gaming. It now runs 15 services and
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <div align="center">
 
@@ -68,46 +67,48 @@ fun_fact: "I told my homelab it was just for gaming. It now runs 15 services and
 
 ---
 
-## 🏗️ Featured Project - Self-Hosted Homelab
+## Featured Project - Self-Hosted Homelab
 
 > **Gaming PC -> Production-Grade Homelab Server** | 2016 - Present
 
 ```
-🖥️ Proxmox VE Hypervisor
-├── 💾 TrueNAS SCALE -> 44TB RAID-Z1 Storage Pool (10TB usable)
-├── 🐳 Docker LXC -> 15 Self-Hosted Microservices
+Proxmox VE Hypervisor
+├── TrueNAS SCALE -> 44TB RAID-Z1 Storage Pool (10TB usable)
+├── Docker LXC -> 15 Self-Hosted Microservices
 │   ├── Nextcloud (File Sync), Immich (Photo Backup)
 │   ├── Nginx Proxy Manager + Let's Encrypt SSL
 │   ├── Grafana + Prometheus (Infrastructure Monitoring)
 │   ├── Pterodactyl (Game Server Management)
 │   └── Discord Bot (Python + MongoDB)
-├── 🔐 Tailscale VPN -> Secure Remote Access
-└── ⚙️ GitHub Actions -> CI/CD Zero-Downtime Deployments
+├── Tailscale VPN -> Secure Remote Access
+└── GitHub Actions -> CI/CD Zero-Downtime Deployments
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twistedvortek&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twistedvortek&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00&count_private=true)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
+## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twistedvortek&theme=darkhub&title_color=FF6B00&no-bg=true&margin-w=4)
 
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=twistedvortek/twistedvortek&type=Date&theme=dark)](https://star-history.com/#twistedvortek/twistedvortek&Date)
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -120,6 +121,6 @@ fun_fact: "I told my homelab it was just for gaming. It now runs 15 services and
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=twistedvortek&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
