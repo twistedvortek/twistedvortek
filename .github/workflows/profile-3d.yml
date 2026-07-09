@@ -1,0 +1,35 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: twistedvortek
+          SETTING_JSON: |
+            {
+              "githubUserName": "twistedvortek",
+              "backgroundColor": "#000000",
+              "type": "normal",
+              "height": 200,
+              "pixelPerDay": 16
+            }
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "Generate 3D contrib graph" || exit 0
+          git push
