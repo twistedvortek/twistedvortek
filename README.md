@@ -90,13 +90,41 @@ Proxmox VE Hypervisor
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twistedvortek&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00&count_private=true)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/twistedvortek?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=twistedvortek&theme=dark&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=FF6B00)
+
+</div>
+
+---
+
+## 3D Commit Activity
+
+<div align="center">
+
+![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
+
+</div>
+
+---
+
+## Typing Speed
+
+<div align="center">
+
+![MonkeyType](https://monkeytypecard.vercel.app/monkeytype.svg?username=kinetixtactic&theme=chaos_theory&wordValue=100&timeValue=30)
+
+</div>
 
 ---
 
 ## GitHub Trophies
 
+<div align="center">
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twistedvortek&theme=darkhub&title_color=FF6B00&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
@@ -104,23 +132,15 @@ Proxmox VE Hypervisor
 
 [![Star History Chart](https://api.star-history.com/svg?repos=twistedvortek/twistedvortek&type=Date&theme=dark)](https://star-history.com/#twistedvortek/twistedvortek&Date)
 
-</div>
-
 ---
 
 ## Connect With Me
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafaatahmed)
 [![Website](https://img.shields.io/badge/shafaat.net-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](https://shafaat.net)
 [![Twitter/X](https://img.shields.io/badge/@whoisshafaat-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/whoisshafaat)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twistedvortek)
 
-</div>
-
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=twistedvortek&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
