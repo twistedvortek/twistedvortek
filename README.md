@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=200&section=header&text=Shafaat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Infrastructure%20%26%20Operations%20Specialist&descAlignY=58&descSize=16&descColor=f0f0f0&fontFamily=Montserrat" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Shafaat - IT Infrastructure & Operations Specialist"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=IT+Infrastructure+%26+Operations+Specialist;Network+%26+Systems+Support;AWS+Certified+Solutions+Architect;CCNA+Certified+Network+Associate;Homelab+Enthusiast+%7C+Self-Hosted+Infrastructure)](https://git.io/typing-svg)
 
@@ -111,9 +111,9 @@ Proxmox VE Hypervisor
 
 <div align="center">
 
-![Typing Speed](https://img.shields.io/badge/MonkeyType-kinetixtactic-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA1SDRjLTEuMSAwLTIgLjktMiAydjEwYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWN2MwLTEuMS0uOS0yLTItMnptLTkgM2gydjJoLTJ6bTAgNGgydjJoLTJ6TTcgOGgydjJIN3ptMCA0aDJ2Mkg3em0xMCA0SDd2LTJoMTB6bTAtNGgydjJoLTJ6bTAtNGgydjJoLTJ6Ii8+PC9zdmc+&logoColor=white&label=Typing+Speed&message=Visit+Profile)
+[![MonkeyType Profile](https://monkeytypecard.vercel.app/monkeytype.svg?username=whoisshafaat&theme=chaos_theory&wordValue=100&timeValue=30)](https://monkeytype.com/profile/whoisshafaat)
 
-[![Visit MonkeyType Profile](https://img.shields.io/badge/View%20Typing%20Stats-%40kinetixtactic-FF6B00?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/kinetixtactic)
+[![Visit MonkeyType](https://img.shields.io/badge/MonkeyType-%40whoisshafaat-FF6B00?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/whoisshafaat)
 
 </div>
 
@@ -154,4 +154,4 @@ Proxmox VE Hypervisor
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
