@@ -12,20 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contrib
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: twistedvortek
-          SETTING_JSON: |
-            {
-              "githubUserName": "twistedvortek",
-              "backgroundColor": "#000000",
-              "type": "normal",
-              "height": 200,
-              "pixelPerDay": 16
-            }
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
