@@ -91,7 +91,6 @@ Proxmox VE Hypervisor
 <div align="center">
 
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/twistedvortek?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=twistedvortek&theme=dark&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&border=FF6B00)
 
 </div>
@@ -112,7 +111,9 @@ Proxmox VE Hypervisor
 
 <div align="center">
 
-![MonkeyType](https://monkeytypecard.vercel.app/monkeytype.svg?username=kinetixtactic&theme=chaos_theory&wordValue=100&timeValue=30)
+![Typing Speed](https://img.shields.io/badge/MonkeyType-kinetixtactic-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA1SDRjLTEuMSAwLTIgLjktMiAydjEwYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWN2MwLTEuMS0uOS0yLTItMnptLTkgM2gydjJoLTJ6bTAgNGgydjJoLTJ6TTcgOGgydjJIN3ptMCA0aDJ2Mkg3em0xMCA0SDd2LTJoMTB6bTAtNGgydjJoLTJ6bTAtNGgydjJoLTJ6Ii8+PC9zdmc+&logoColor=white&label=Typing+Speed&message=Visit+Profile)
+
+[![Visit MonkeyType Profile](https://img.shields.io/badge/View%20Typing%20Stats-%40kinetixtactic-FF6B00?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/kinetixtactic)
 
 </div>
 
@@ -122,19 +123,25 @@ Proxmox VE Hypervisor
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=twistedvortek&theme=darkhub&title_color=FF6B00&no-bg=true&margin-w=4)
+[![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=twistedvortek&theme=darkhub&title_color=FF6B00&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## Star History
+## Activity Graph
 
-[![Star History Chart](https://api.star-history.com/svg?repos=twistedvortek/twistedvortek&type=Date&theme=dark)](https://star-history.com/#twistedvortek/twistedvortek&Date)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twistedvortek&theme=github-compact&color=FF6B00&line=FF6B00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafaatahmed)
 [![Website](https://img.shields.io/badge/shafaat.net-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](https://shafaat.net)
@@ -144,3 +151,7 @@ Proxmox VE Hypervisor
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=twistedvortek&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer" width="100%"/>
